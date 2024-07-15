@@ -1,11 +1,8 @@
-# ecommerce-final-react-firebase
+# React + Vite
 
-ecommerce realizado en react con autentificacion por firebase.
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-REGISTRARSE CON USUARIO Y CONTRASEÑA. SERA AUTENTICADO POR FIREBASE, NO VALIDARA QUE SEA UN CORREO REAL, SOLO SE AUTILIZARA EN LA LOGICA DE VALIDACION POR FIREBASE.
-EN LA APLICACION HAY 5 PRODUCTOS CON LA LOGICA DE AGREGARLOS AL CARRITO.
-PUEDE UTILIZAR LAS SIGUIENTES CREDENCIALES SI NO DESEA DARSE DE ALTA:
+Currently, two official plugins are available:
 
-Correo:TIENDA@TIENDA.COM
-
-contraserña:Tienda1234
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
