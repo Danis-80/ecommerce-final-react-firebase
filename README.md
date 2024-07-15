@@ -10,6 +10,7 @@ SI NO DESEA PONER DATOS DE CORREO, PUEDE UTLIZAR, EL SIGUIENTE.
 Correo: Tienda@tienda.com
 Contraseña:Tienda1234
 
+instalar los modulos de firebase
 
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
